@@ -5,7 +5,7 @@ source "$(dirname "${BASH_SOURCE[0]}")/core.sh"
 core.import ui
 core.import array
 core.import arguments
-logging__doc__='
+trap__doc__='
 '
 
 
